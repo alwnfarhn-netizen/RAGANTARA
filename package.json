@@ -1,0 +1,23 @@
+{
+  "name": "dirgantara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build:content": "node scripts/build-content.js",
+    "test:ui": "node scripts/test-ui-logic.js",
+    "build": "npm run build:content && npm run test:ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}

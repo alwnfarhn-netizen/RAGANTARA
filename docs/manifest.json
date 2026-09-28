@@ -1,0 +1,656 @@
+[
+  {
+    "province": "Banten",
+    "category": "Makanan khas",
+    "title": "Sate Bandeng",
+    "webp": "images/banten/makanan-khas/sate-bandeng.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Makanan khas",
+    "title": "Rabeg",
+    "webp": "images/banten/makanan-khas/rabeg.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Makanan khas",
+    "title": "Angeun Lada",
+    "webp": "images/banten/makanan-khas/angeun-lada.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Makanan khas",
+    "title": "Pecak Bandeng",
+    "webp": "images/banten/makanan-khas/pecak-bandeng.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Pakaian adat",
+    "title": "Pangsi Banten",
+    "webp": "images/banten/pakaian-adat/pangsi-banten.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Pakaian adat",
+    "title": "Busana Masyarakat Kanekes",
+    "webp": "images/banten/pakaian-adat/busana-masyarakat-kanekes.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Pakaian adat",
+    "title": "Kebaya dalam Tradisi Banten",
+    "webp": "images/banten/pakaian-adat/kebaya-dalam-tradisi-banten.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Tari dan seni",
+    "title": "Rampak Bedug",
+    "webp": "images/banten/tari-dan-seni/rampak-bedug.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Tari dan seni",
+    "title": "Debus",
+    "webp": "images/banten/tari-dan-seni/debus.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Tari dan seni",
+    "title": "Ubrug",
+    "webp": "images/banten/tari-dan-seni/ubrug.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Rumah adat",
+    "title": "Imah Kanekes atau Sulah Nyanda",
+    "webp": "images/banten/rumah-adat/imah-kanekes-atau-sulah-nyanda.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Rumah adat",
+    "title": "Imah Gede Kasepuhan Citorek",
+    "webp": "images/banten/rumah-adat/imah-gede-kasepuhan-citorek.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Musik tradisi",
+    "title": "Angklung Buhun",
+    "webp": "images/banten/musik-tradisi/angklung-buhun.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Musik tradisi",
+    "title": "Dogdog Lojor",
+    "webp": "images/banten/musik-tradisi/dogdog-lojor.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Musik tradisi",
+    "title": "Bedug",
+    "webp": "images/banten/musik-tradisi/bedug.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Cerita rakyat",
+    "title": "Legenda Batu Kuwung",
+    "webp": "images/banten/cerita-rakyat/legenda-batu-kuwung.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Cerita rakyat",
+    "title": "Hikayat Tanjung Lesung",
+    "webp": "images/banten/cerita-rakyat/hikayat-tanjung-lesung.webp"
+  },
+  {
+    "province": "Banten",
+    "category": "Cerita rakyat",
+    "title": "Pangeran Pande Gelang dan Putri Cadasari",
+    "webp": "images/banten/cerita-rakyat/pangeran-pande-gelang-dan-putri-cadasari.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Makanan khas",
+    "title": "Kerak Telor",
+    "webp": "images/dki-jakarta/makanan-khas/kerak-telor.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Makanan khas",
+    "title": "Soto Betawi",
+    "webp": "images/dki-jakarta/makanan-khas/soto-betawi.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Makanan khas",
+    "title": "Nasi Uduk Betawi",
+    "webp": "images/dki-jakarta/makanan-khas/nasi-uduk-betawi.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Makanan khas",
+    "title": "Asinan Betawi",
+    "webp": "images/dki-jakarta/makanan-khas/asinan-betawi.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Pakaian adat",
+    "title": "Sadariah",
+    "webp": "images/dki-jakarta/pakaian-adat/sadariah.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Pakaian adat",
+    "title": "Kebaya Encim",
+    "webp": "images/dki-jakarta/pakaian-adat/kebaya-encim.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Pakaian adat",
+    "title": "Busana Ujung Serong",
+    "webp": "images/dki-jakarta/pakaian-adat/busana-ujung-serong.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Tari dan seni",
+    "title": "Tari Yapong",
+    "webp": "images/dki-jakarta/tari-dan-seni/tari-yapong.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Tari dan seni",
+    "title": "Ondel-ondel",
+    "webp": "images/dki-jakarta/tari-dan-seni/ondel-ondel.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Tari dan seni",
+    "title": "Lenong",
+    "webp": "images/dki-jakarta/tari-dan-seni/lenong.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Rumah adat",
+    "title": "Rumah Kebaya atau Bapang",
+    "webp": "images/dki-jakarta/rumah-adat/rumah-kebaya-atau-bapang.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Rumah adat",
+    "title": "Rumah Gudang",
+    "webp": "images/dki-jakarta/rumah-adat/rumah-gudang.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Musik tradisi",
+    "title": "Gambang Kromong",
+    "webp": "images/dki-jakarta/musik-tradisi/gambang-kromong.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Musik tradisi",
+    "title": "Tanjidor",
+    "webp": "images/dki-jakarta/musik-tradisi/tanjidor.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Musik tradisi",
+    "title": "Tehyan",
+    "webp": "images/dki-jakarta/musik-tradisi/tehyan.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Cerita rakyat",
+    "title": "Si Pitung",
+    "webp": "images/dki-jakarta/cerita-rakyat/si-pitung.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Cerita rakyat",
+    "title": "Si Jampang",
+    "webp": "images/dki-jakarta/cerita-rakyat/si-jampang.webp"
+  },
+  {
+    "province": "DKI Jakarta",
+    "category": "Cerita rakyat",
+    "title": "Murtado, Macan Kemayoran",
+    "webp": "images/dki-jakarta/cerita-rakyat/murtado-macan-kemayoran.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Makanan khas",
+    "title": "Karedok",
+    "webp": "images/jawa-barat/makanan-khas/karedok.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Makanan khas",
+    "title": "Batagor Bandung",
+    "webp": "images/jawa-barat/makanan-khas/batagor-bandung.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Makanan khas",
+    "title": "Surabi",
+    "webp": "images/jawa-barat/makanan-khas/surabi.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Makanan khas",
+    "title": "Nasi Timbel",
+    "webp": "images/jawa-barat/makanan-khas/nasi-timbel.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Pakaian adat",
+    "title": "Kebaya Sunda",
+    "webp": "images/jawa-barat/pakaian-adat/kebaya-sunda.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Pakaian adat",
+    "title": "Pangsi Sunda",
+    "webp": "images/jawa-barat/pakaian-adat/pangsi-sunda.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Pakaian adat",
+    "title": "Beskap Gaya Sunda",
+    "webp": "images/jawa-barat/pakaian-adat/beskap-gaya-sunda.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Tari dan seni",
+    "title": "Jaipongan",
+    "webp": "images/jawa-barat/tari-dan-seni/jaipongan.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Tari dan seni",
+    "title": "Wayang Golek",
+    "webp": "images/jawa-barat/tari-dan-seni/wayang-golek.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Tari dan seni",
+    "title": "Sisingaan",
+    "webp": "images/jawa-barat/tari-dan-seni/sisingaan.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Rumah adat",
+    "title": "Rumah Julang Ngapak",
+    "webp": "images/jawa-barat/rumah-adat/rumah-julang-ngapak.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Rumah adat",
+    "title": "Rumah Jolopong",
+    "webp": "images/jawa-barat/rumah-adat/rumah-jolopong.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Musik tradisi",
+    "title": "Angklung",
+    "webp": "images/jawa-barat/musik-tradisi/angklung.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Musik tradisi",
+    "title": "Kacapi",
+    "webp": "images/jawa-barat/musik-tradisi/kacapi.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Musik tradisi",
+    "title": "Suling Sunda",
+    "webp": "images/jawa-barat/musik-tradisi/suling-sunda.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Cerita rakyat",
+    "title": "Sangkuriang",
+    "webp": "images/jawa-barat/cerita-rakyat/sangkuriang.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Cerita rakyat",
+    "title": "Lutung Kasarung",
+    "webp": "images/jawa-barat/cerita-rakyat/lutung-kasarung.webp"
+  },
+  {
+    "province": "Jawa Barat",
+    "category": "Cerita rakyat",
+    "title": "Ciung Wanara",
+    "webp": "images/jawa-barat/cerita-rakyat/ciung-wanara.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Makanan khas",
+    "title": "Lumpia Semarang",
+    "webp": "images/jawa-tengah/makanan-khas/lumpia-semarang.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Makanan khas",
+    "title": "Soto Kudus",
+    "webp": "images/jawa-tengah/makanan-khas/soto-kudus.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Makanan khas",
+    "title": "Nasi Liwet Solo",
+    "webp": "images/jawa-tengah/makanan-khas/nasi-liwet-solo.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Makanan khas",
+    "title": "Garang Asem",
+    "webp": "images/jawa-tengah/makanan-khas/garang-asem.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Pakaian adat",
+    "title": "Jawi Jangkep",
+    "webp": "images/jawa-tengah/pakaian-adat/jawi-jangkep.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Pakaian adat",
+    "title": "Kebaya Jawa",
+    "webp": "images/jawa-tengah/pakaian-adat/kebaya-jawa.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Pakaian adat",
+    "title": "Beskap",
+    "webp": "images/jawa-tengah/pakaian-adat/beskap.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Tari dan seni",
+    "title": "Tari Gambyong",
+    "webp": "images/jawa-tengah/tari-dan-seni/tari-gambyong.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Tari dan seni",
+    "title": "Wayang Kulit",
+    "webp": "images/jawa-tengah/tari-dan-seni/wayang-kulit.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Tari dan seni",
+    "title": "Kuda Lumping",
+    "webp": "images/jawa-tengah/tari-dan-seni/kuda-lumping.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Rumah adat",
+    "title": "Joglo",
+    "webp": "images/jawa-tengah/rumah-adat/joglo.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Rumah adat",
+    "title": "Limasan",
+    "webp": "images/jawa-tengah/rumah-adat/limasan.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Musik tradisi",
+    "title": "Gamelan Jawa",
+    "webp": "images/jawa-tengah/musik-tradisi/gamelan-jawa.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Musik tradisi",
+    "title": "Siter",
+    "webp": "images/jawa-tengah/musik-tradisi/siter.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Musik tradisi",
+    "title": "Rebab",
+    "webp": "images/jawa-tengah/musik-tradisi/rebab.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Cerita rakyat",
+    "title": "Jaka Tarub dan Nawang Wulan",
+    "webp": "images/jawa-tengah/cerita-rakyat/jaka-tarub-dan-nawang-wulan.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Cerita rakyat",
+    "title": "Legenda Rawa Pening",
+    "webp": "images/jawa-tengah/cerita-rakyat/legenda-rawa-pening.webp"
+  },
+  {
+    "province": "Jawa Tengah",
+    "category": "Cerita rakyat",
+    "title": "Timun Mas",
+    "webp": "images/jawa-tengah/cerita-rakyat/timun-mas.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Makanan khas",
+    "title": "Gudeg",
+    "webp": "images/daerah-istimewa-yogyakarta/makanan-khas/gudeg.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Makanan khas",
+    "title": "Bakpia",
+    "webp": "images/daerah-istimewa-yogyakarta/makanan-khas/bakpia.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Makanan khas",
+    "title": "Sate Klathak",
+    "webp": "images/daerah-istimewa-yogyakarta/makanan-khas/sate-klathak.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Makanan khas",
+    "title": "Geplak",
+    "webp": "images/daerah-istimewa-yogyakarta/makanan-khas/geplak.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Pakaian adat",
+    "title": "Surjan",
+    "webp": "images/daerah-istimewa-yogyakarta/pakaian-adat/surjan.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Pakaian adat",
+    "title": "Kebaya Gaya Yogyakarta",
+    "webp": "images/daerah-istimewa-yogyakarta/pakaian-adat/kebaya-gaya-yogyakarta.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Pakaian adat",
+    "title": "Tata Rias dan Busana Paes Ageng",
+    "webp": "images/daerah-istimewa-yogyakarta/pakaian-adat/tata-rias-dan-busana-paes-ageng.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Tari dan seni",
+    "title": "Tari Srimpi atau Serimpi",
+    "webp": "images/daerah-istimewa-yogyakarta/tari-dan-seni/tari-srimpi-atau-serimpi.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Tari dan seni",
+    "title": "Tari Bedhaya",
+    "webp": "images/daerah-istimewa-yogyakarta/tari-dan-seni/tari-bedhaya.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Tari dan seni",
+    "title": "Wayang Kulit Gaya Yogyakarta",
+    "webp": "images/daerah-istimewa-yogyakarta/tari-dan-seni/wayang-kulit-gaya-yogyakarta.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Rumah adat",
+    "title": "Joglo Gaya Yogyakarta",
+    "webp": "images/daerah-istimewa-yogyakarta/rumah-adat/joglo-gaya-yogyakarta.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Rumah adat",
+    "title": "Limasan Gaya Yogyakarta",
+    "webp": "images/daerah-istimewa-yogyakarta/rumah-adat/limasan-gaya-yogyakarta.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Musik tradisi",
+    "title": "Gamelan Gaya Yogyakarta",
+    "webp": "images/daerah-istimewa-yogyakarta/musik-tradisi/gamelan-gaya-yogyakarta.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Musik tradisi",
+    "title": "Gejog Lesung",
+    "webp": "images/daerah-istimewa-yogyakarta/musik-tradisi/gejog-lesung.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Musik tradisi",
+    "title": "Siter",
+    "webp": "images/daerah-istimewa-yogyakarta/musik-tradisi/siter.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Cerita rakyat",
+    "title": "Roro Jonggrang",
+    "webp": "images/daerah-istimewa-yogyakarta/cerita-rakyat/roro-jonggrang.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Cerita rakyat",
+    "title": "Nyi Roro Kidul dalam Tradisi Tutur",
+    "webp": "images/daerah-istimewa-yogyakarta/cerita-rakyat/nyi-roro-kidul-dalam-tradisi-tutur.webp"
+  },
+  {
+    "province": "Daerah Istimewa Yogyakarta",
+    "category": "Cerita rakyat",
+    "title": "Ki Ageng Mangir",
+    "webp": "images/daerah-istimewa-yogyakarta/cerita-rakyat/ki-ageng-mangir.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Makanan khas",
+    "title": "Rawon",
+    "webp": "images/jawa-timur/makanan-khas/rawon.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Makanan khas",
+    "title": "Rujak Cingur",
+    "webp": "images/jawa-timur/makanan-khas/rujak-cingur.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Makanan khas",
+    "title": "Pecel Madiun",
+    "webp": "images/jawa-timur/makanan-khas/pecel-madiun.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Makanan khas",
+    "title": "Lontong Balap",
+    "webp": "images/jawa-timur/makanan-khas/lontong-balap.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Makanan khas",
+    "title": "Soto Lamongan",
+    "webp": "images/jawa-timur/makanan-khas/soto-lamongan.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Pakaian adat",
+    "title": "Pesa'an Madura",
+    "webp": "images/jawa-timur/pakaian-adat/pesaan-madura.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Pakaian adat",
+    "title": "Kebaya Rancongan",
+    "webp": "images/jawa-timur/pakaian-adat/kebaya-rancongan.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Pakaian adat",
+    "title": "Busana Cak dan Ning Surabaya",
+    "webp": "images/jawa-timur/pakaian-adat/busana-cak-dan-ning-surabaya.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Tari dan seni",
+    "title": "Tari Remo",
+    "webp": "images/jawa-timur/tari-dan-seni/tari-remo.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Tari dan seni",
+    "title": "Reog Ponorogo",
+    "webp": "images/jawa-timur/tari-dan-seni/reog-ponorogo.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Tari dan seni",
+    "title": "Gandrung Banyuwangi",
+    "webp": "images/jawa-timur/tari-dan-seni/gandrung-banyuwangi.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Rumah adat",
+    "title": "Tanean Lanjhang Madura",
+    "webp": "images/jawa-timur/rumah-adat/tanean-lanjhang-madura.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Rumah adat",
+    "title": "Rumah Osing Banyuwangi",
+    "webp": "images/jawa-timur/rumah-adat/rumah-osing-banyuwangi.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Musik tradisi",
+    "title": "Gamelan Jawa Timuran",
+    "webp": "images/jawa-timur/musik-tradisi/gamelan-jawa-timuran.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Musik tradisi",
+    "title": "Saronen Madura",
+    "webp": "images/jawa-timur/musik-tradisi/saronen-madura.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Musik tradisi",
+    "title": "Angklung Caruk Banyuwangi",
+    "webp": "images/jawa-timur/musik-tradisi/angklung-caruk-banyuwangi.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Cerita rakyat",
+    "title": "Keong Mas",
+    "webp": "images/jawa-timur/cerita-rakyat/keong-mas.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Cerita rakyat",
+    "title": "Ande-Ande Lumut dan Klenting Kuning",
+    "webp": "images/jawa-timur/cerita-rakyat/ande-ande-lumut-dan-klenting-kuning.webp"
+  },
+  {
+    "province": "Jawa Timur",
+    "category": "Cerita rakyat",
+    "title": "Roro Anteng dan Joko Seger",
+    "webp": "images/jawa-timur/cerita-rakyat/roro-anteng-dan-joko-seger.webp"
+  }
+]
