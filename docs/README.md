@@ -1,3 +1,3 @@
-# Gambar budaya Pulau Jawa
+# Gambar Budaya Pulau Kalimantan
 
-109 objek di enam provinsi, masing-masing satu WEBP 1024 × 1024 piksel dengan latar transparan. Semua gambar berupa visual realistis yang dibuat khusus untuk materi belajar. Struktur: images/<provinsi>/<kategori>/<objek>.webp. Lihat manifest.json untuk mencocokkan setiap kartu dengan path gambarnya. Adegan cerita rakyat adalah interpretasi visual.
+91 objek dari lima provinsi. Setiap objek memiliki satu gambar WEBP 1024 × 1024 piksel dengan latar transparan. Struktur folder images/<provinsi>/<kategori>/<objek>.webp; manifest.json berisi padanan judul kartu dan jalur gambar. Semua gambar adalah visual yang dibuat khusus, bukan foto dokumentasi atau bukti sejarah. Cerita rakyat diinterpretasikan secara visual.
